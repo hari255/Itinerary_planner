@@ -13,3 +13,9 @@ To suggest a user with personalized places around him to visit.
 ## Metrics
 
 Destinations, Near by attractions, Reviews, Culture, Food preferences, Budget, No of days, NO of people, Accommodation, transport,
+
+-- Need to add more.
+
+
+## Database 
+
