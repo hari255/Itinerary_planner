@@ -1,6 +1,3 @@
-# animal_accident
-
-
 ## PROJECT SCOPE
 
 To suggest a user with personalized places around him to visit. 
@@ -33,3 +30,6 @@ MySQL/ Postgres
 
 
 
+airlines data
+
+https://www.bts.gov/topics/airlines-and-airports/quick-links-popular-air-carrier-statistics
