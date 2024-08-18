@@ -8,7 +8,7 @@ To suggest a user with personalized places around him to visit.
 
 
 ## Metrics
-Destinations, Near by attractions, Reviews, Culture, Food preferences, Budget, No of days, NO of people, Accommodation, transport,
+Destinations, Near by attractions, Reviews, Culture, Food preferences, Budget, No of days, No of people, Accommodation, transport,
 
 -- Need to add more.
 
@@ -17,6 +17,12 @@ Destinations, Near by attractions, Reviews, Culture, Food preferences, Budget, N
 MySQL/ Postgres
 
 ## Data Ingestion
+
+### Sources
+
+**APIs**
+
+ - https://developers.amadeus.com/
 
 
 ## Data Modeling 
